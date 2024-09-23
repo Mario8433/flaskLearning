@@ -1,2 +1,5 @@
-# flaskLearning
-This is a website for learning purpose. This website may include something interesting one day.
+# Turpentine Library
+
+This is a personal nexus website linking to other projects.
+
+It has nothing to do with turpentine.
