@@ -1,0 +1,6 @@
+[submodule "sub-projects/vmzhoard"]
+	path = sub-projects/vmzhoard
+	url = https://github.com/Mario8433/vmzhoard
+[submodule "sub-projects/turpslib.github.io"]
+	path = sub-projects/turpslib.github.io
+	url = https://github.com/Mario8433/turpslib.github.io
